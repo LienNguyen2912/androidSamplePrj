@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentCommunicationTest</string>
+    <string name="new_fragment_textView">New TextView by MainActivity</string>
+</resources>
